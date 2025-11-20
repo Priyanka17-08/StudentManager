@@ -1,4 +1,4 @@
-
+# JAVA LAB ASSIGNMENT MANAGER
 # 📘 Student Management System – Java (Exception Handling + Multithreading + Wrapper Classes)
 
 A simple and robust Student Management System implemented in Java that demonstrates:
